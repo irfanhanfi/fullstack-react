@@ -26,6 +26,6 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "concurrently": "^2.2.0"
+    "concurrently": "^3.6.1"
   }
 }
